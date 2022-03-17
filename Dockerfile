@@ -18,6 +18,8 @@ ADD scripts /scripts
 
 RUN chmod a+x /scripts/*.sh
 
+RUN mv /scripts/index.html /var/www/html/index.html
+
 EXPOSE 80
 
 ENTRYPOINT ["/scripts/entrypoint.sh"]
