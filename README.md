@@ -1,4 +1,5 @@
 [![Build Status Docker](https://github.com/bibbox/img-varapp-frontend/actions/workflows/docker-image.yml/badge.svg)](https://github.com/bibbox/img-varapp-frontend/actions)
+[![Publish Docker image](https://github.com/bibbox/img-varapp-frontend/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/bibbox/img-varapp-frontend/actions/workflows/docker-publish.yml)
 
 
 # img-varapp-frontend
