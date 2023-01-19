@@ -1,3 +1,6 @@
+[![Build Status Docker](https://github.com/bibbox/img-varapp-frontend/actions/workflows/docker-image.yml/badge.svg)](https://github.com/bibbox/img-varapp-frontend/actions)
+
+
 # img-varapp-frontend
 Docker image for [varapp frontend](https://github.com/sib-swiss/varapp-frontend-react).
 
